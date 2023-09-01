@@ -1,6 +1,6 @@
 ﻿using static CleanCodeBase.DoNotRepeatYourselfCase;
 
-namespace CleanCodeBase
+namespace CleanCodeBase.Violation
 {
     internal class CreateOrUpdateCase
     {

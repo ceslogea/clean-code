@@ -1,4 +1,4 @@
-﻿namespace CleanCodeBase
+﻿namespace CleanCodeBase.Violation
 {
     internal class TrueComparsionProblemCase
     {
